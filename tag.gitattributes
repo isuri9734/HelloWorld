@@ -1,4 +1,0 @@
-*.c# linguist-detectable=false
-*.c linguist-detectable=true
-*.java linguist-detectable=true
-*.python linguist-detectable=true
